@@ -57,5 +57,9 @@ body {
 .main-points > li {
     line-height: 19px;
     padding-block: 10px;
+}
 
+.main-points > li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
 }
