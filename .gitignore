@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+Pop_Quizes
 
 # Editor directories and files
 .vscode/*
