@@ -6,7 +6,7 @@ Hint: use the Figma file for the most accurate peek at the design
 */
 
 import React from "react";
-import logo from '../images/react-icon.png';
+import logo from '../images/react-icon-small.png';
 
 export default function Navbar() {
     return (

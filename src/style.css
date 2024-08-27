@@ -41,6 +41,10 @@ body {
 .main-container {
     padding: 57px 27px;
     color: #FFFFFF;
+
+    background-image: url('./images/react-icon-large.png');
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .main-title {
