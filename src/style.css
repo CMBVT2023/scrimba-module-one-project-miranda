@@ -6,7 +6,10 @@
 body {
     margin: 0;
     font-family: Inter, sans-serif !important;
+    background-color: #282D35;
 }
+
+/* Styles for the NavBar component */
 
 .nav-container {
     display: flex;
@@ -31,4 +34,28 @@ body {
 .nav-project-title {
     color: #DEEBF8;
     font-weight: 600;
+}
+
+/* Styles for the Main component */
+
+.main-container {
+    padding: 57px 27px;
+    color: #FFFFFF;
+}
+
+.main-title {
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: -0.05em;
+}
+
+.main-points {
+    margin-top: 46px;
+    max-width: 400px;
+}
+
+.main-points > li {
+    line-height: 19px;
+    padding-block: 10px;
+
 }
